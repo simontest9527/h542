@@ -1,6 +1,6 @@
 <template>
   <div class="list">
-    <!-- loading 组件 -->
+    <!-- loading 的组件 -->
     <loading v-if="!items.length"></loading>
     <!-- 主题列表 -->
     <ul class="items">
